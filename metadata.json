@@ -1,0 +1,6 @@
+{
+  "name": "رفيق — تجربة التعلم التفاعلي",
+  "description": "نموذج أولي لمنصة رفيق التعليمية التفاعلية باللغة العربية لتبسيط الرياضيات والكسور حسب الصف الدراسي من الأول حتى الثاني عشر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

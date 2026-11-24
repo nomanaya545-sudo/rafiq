@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F766E" />
+      <stop offset="100%" stop-color="#0D9488" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBBF24" />
+      <stop offset="100%" stop-color="#F59E0B" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)" />
+  <!-- Decorative subtle arc -->
+  <circle cx="256" cy="256" r="196" fill="none" stroke="#FFFFFF" stroke-opacity="0.14" stroke-width="6" />
+  <!-- Owl ears / crown accent -->
+  <path d="M132 162 L188 196 L156 226 Z" fill="url(#gold)" />
+  <path d="M380 162 L324 196 L356 226 Z" fill="url(#gold)" />
+  <!-- Signature Rafiq glasses -->
+  <circle cx="192" cy="248" r="68" fill="#FFFFFF" stroke="#134E4A" stroke-width="14" />
+  <circle cx="320" cy="248" r="68" fill="#FFFFFF" stroke="#134E4A" stroke-width="14" />
+  <line x1="254" y1="248" x2="258" y2="248" stroke="#134E4A" stroke-width="16" stroke-linecap="round" />
+  <!-- Pupils -->
+  <circle cx="196" cy="248" r="24" fill="#0F172A" />
+  <circle cx="316" cy="248" r="24" fill="#0F172A" />
+  <circle cx="204" cy="238" r="8" fill="#FFFFFF" />
+  <circle cx="324" cy="238" r="8" fill="#FFFFFF" />
+  <!-- Beak -->
+  <polygon points="256,272 232,316 280,316" fill="url(#gold)" stroke="#134E4A" stroke-width="8" stroke-linejoin="round" />
+  <!-- Open book / fraction bar at bottom -->
+  <path d="M148 368 Q202 350 256 372 Q310 350 364 368 L364 410 Q310 392 256 414 Q202 392 148 410 Z" fill="#FFFFFF" fill-opacity="0.95" />
+  <line x1="256" y1="372" x2="256" y2="414" stroke="#0F766E" stroke-width="6" />
+</svg>
